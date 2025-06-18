@@ -1,8 +1,8 @@
 import Image from "next/image";
 import { Container } from "./Container";
 
-import PhoneIcon from '@angular/phone-icon.svg'
-import SoluctionsIcon from '@/assets/icon-solutions.svg'
+import PhoneIcon from '@/assets/icon-phone.svg'
+import SoluctionsIcon from '@/assets/icon-soluctions.svg'
 import OptionsIcon from '@/assets/icon-options.svg'
 import CardIcon from '@/assets/icon-card.svg'
 

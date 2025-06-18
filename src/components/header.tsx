@@ -2,8 +2,8 @@ import Image from "next/image";
 import { ItemMenu } from "./ItemMenu";
 import { Search } from "./Search";
 
-import Logo from '@/assets/logo.svg'
-import InconUser from '@/assets/icon-user.svg'
+import Logo from '@/assets/logo.svg';
+import InconUser from '@/assets/icon-user.svg';
 import { Container } from "./Container";
 
 export function Header() {
