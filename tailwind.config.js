@@ -17,7 +17,6 @@ module.exports = {
             colors: {
             'primary-blue': '#106EB0',
             'primary-orange': '#EC7000',
-            'primary-blue': '#33303E',
             'second-gray': '#4E4B59',
             'gray-phone': '#F4F4F4',
             'txt-gray': '#7A7786',

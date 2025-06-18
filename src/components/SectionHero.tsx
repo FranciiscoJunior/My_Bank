@@ -1,5 +1,5 @@
 import Image from "next/image"
-import { Container } from "./Container";
+import { Container } from './Container'
 
 import ImgAppleStore from '@/assets/btn-apple-store.svg'
 import ImgGooglePlay from '@/assets/btn-google-play.svg'

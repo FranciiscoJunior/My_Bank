@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { ItemMenu } from "./ItemMenu";
+import { ItemMenu } from './ItemMenu'
 import { Search } from "./Search";
 
 import Logo from '@/assets/logo.svg';
